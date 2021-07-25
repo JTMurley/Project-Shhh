@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{501A8BC4-EE59-456E-B258-D0E9BA06EF24}|Default">
+  <MonoDevelop.Ide.ItemProperties.Gateway.SHHH.Gateway.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectSHHH" expanded="True">
+            <Node name="Gateway" expanded="True">
+              <Node name="SHHH.Gateway.API" expanded="True" />
+            </Node>
+            <Node name="MSWordTemplateGen" expanded="True">
+              <Node name="SHHH.MSWordTemplateGen.Generator" selected="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True">
+              <Node name="docker-compose.yml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MSWordTemplateGen/SHHH.MSWordTemplateGen.API/SHHH.MSWordTemplateGen.Generator/SHHH.MSWordTemplateGen.Generator.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

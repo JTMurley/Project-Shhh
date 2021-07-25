@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  shhh.gateway.api:
+    image: ${DOCKER_REGISTRY-}shhhgateway
+    build:
+      context: .
+      dockerfile: Gateway/SHHH.Gateway.API/Dockerfile
+
+  shhh.mswordtemplategen.api:
+    image: ${DOCKER_REGISTRY-}shhhmswordtemplategen
+    build:
+      context: .
+      dockerfile: MSWordTemplateGen/SHHH.MSWordTemplateGen.API/Dockerfile
+
