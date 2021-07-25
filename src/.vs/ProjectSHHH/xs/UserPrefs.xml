@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{501A8BC4-EE59-456E-B258-D0E9BA06EF24}|Default">
+  <MonoDevelop.Ide.ItemProperties.MSWordTemplateGen.SHHH.MSWordTemplateGen.Generator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Gateway.SHHH.Gateway.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MSWordTemplateGen/SHHH.MSWordTemplateGen.API/SHHH.MSWordTemplateGen.Generator/DocumentGenerator.cs">
+    <Files>
+      <File FileName="Gateway/SHHH.Gateway.API/Program.cs" Line="31" Column="1" />
+      <File FileName="Gateway/SHHH.Gateway.API/Startup.cs" Line="32" Column="39" />
+      <File FileName="Gateway/SHHH.Gateway.API/Dockerfile" Line="23" Column="1" />
+      <File FileName="Gateway/SHHH.Gateway.API/Controllers/GatewayController.cs" Line="10" Column="20" />
+      <File FileName="MSWordTemplateGen/SHHH.MSWordTemplateGen.API/Controllers/MSWordTemplateGenController.cs" Line="14" Column="57" />
+      <File FileName="Gateway/SHHH.Gateway.API/routes.json" Line="7" Column="15" />
+      <File FileName="Gateway/SHHH.Gateway.API/appsettings.json" Line="1" Column="1" />
+      <File FileName="docker-compose.override.yml" Line="21" Column="13" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="MSWordTemplateGen/SHHH.MSWordTemplateGen.API/SHHH.MSWordTemplateGen.Generator/DocumentGenerator.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectSHHH" expanded="True">
+            <Node name="Gateway" expanded="True">
+              <Node name="SHHH.Gateway.API" expanded="True" />
+            </Node>
+            <Node name="MSWordTemplateGen" expanded="True">
+              <Node name="SHHH.MSWordTemplateGen.Generator" expanded="True">
+                <Node name="DocumentGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

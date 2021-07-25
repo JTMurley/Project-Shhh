@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{787401AC-E843-44C7-A404-A9BF720E006B}|SHH.Gateway">
+  <MonoDevelop.Ide.ItemProperties.SHHH.MSWordTemplateGen.API FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SHHH.API.Gateway PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
