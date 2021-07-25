@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHHH.MSWordTemplateGen.API"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{501A8BC4-EE59-456E-B258-D0E9BA06EF24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHHH.MSWordTemplateGen.Generator", "MSWordTemplateGen\SHHH.MSWordTemplateGen.API\SHHH.MSWordTemplateGen.Generator\SHHH.MSWordTemplateGen.Generator.csproj", "{884F9519-86E8-4562-B424-D0A0DCFB7CBC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +31,6 @@ Global
 		{501A8BC4-EE59-456E-B258-D0E9BA06EF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{501A8BC4-EE59-456E-B258-D0E9BA06EF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{501A8BC4-EE59-456E-B258-D0E9BA06EF24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{884F9519-86E8-4562-B424-D0A0DCFB7CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{884F9519-86E8-4562-B424-D0A0DCFB7CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{884F9519-86E8-4562-B424-D0A0DCFB7CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{884F9519-86E8-4562-B424-D0A0DCFB7CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,6 +41,5 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E50DE2E2-856D-42C6-BBD5-F543E45941F6} = {FF7A92A0-D158-4C0F-A745-C0BD1A7F968E}
 		{D2E4AA0F-4AD9-40B5-8D8A-8E7027374376} = {D6E2DDB2-8BE5-4161-9639-AF0A3A6A1996}
-		{884F9519-86E8-4562-B424-D0A0DCFB7CBC} = {D6E2DDB2-8BE5-4161-9639-AF0A3A6A1996}
 	EndGlobalSection
 EndGlobal
